@@ -1,0 +1,72 @@
+.ADD {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f0f0f0e0;
+  margin: 10% 15% 2% 15%;
+  height: 200px;
+  border-radius: 5px;
+  
+  height:400px;
+}
+
+.ADD h1 {
+  color: grey;
+  font-size: 40px;
+  letter-spacing: 5px;
+  margin:0%;
+  font-family: cursive;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px rgb(248, 107, 217),
+    0 0 80px rgb(248, 107, 217),
+    0 0 90px rgb(248, 107, 217),
+    0 0 100px rgb(248, 107, 217),
+    0 0 150px rgb(248, 107, 217);
+
+
+}
+.ADD h2 {
+  color: grey;
+  font-size: 20px;
+  letter-spacing: 5px;
+  margin:0%;
+  font-family: cursive;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px rgba(107, 106, 107, 0.329),
+    0 0 80px rgba(107, 106, 107, 0.329),
+    0 0 90px rgba(107, 106, 107, 0.329),
+    0 0 100px rgba(107, 106, 107, 0.329),
+    0 0 150px rgba(107, 106, 107, 0.329);
+
+}
+input {
+  width: 50%;
+  border-radius: 6px;
+  padding: 20px;
+  height: 25px;
+  font-size: 15px;
+  font-weight: 700;
+  transition: all 0.15s ease;
+  text-align: center;
+  background-color: #ffffff;
+}
+button {
+  
+  font-size: 30px;
+  font-weight: 700;
+  background-color:grey;
+  border: none;
+  border-radius: 2px;
+  font-family: cursive;
+  color:black;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

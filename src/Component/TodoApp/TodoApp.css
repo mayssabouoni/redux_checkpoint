@@ -1,0 +1,43 @@
+.header {
+  top: 0;
+  padding: 1px;
+  text-align: center;
+  font-size: x-large;
+  letter-spacing: 3px;
+  position: fixed;
+  width: 100%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  font-family: cursive;
+
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px rgb(248, 107, 217),
+    0 0 80px rgb(248, 107, 217),
+    0 0 90px rgb(248, 107, 217),
+    0 0 100px rgb(248, 107, 217),
+    0 0 150px rgb(248, 107, 217);
+
+    font-size: calc(1vw + 1vh + 1.5vmin);
+
+
+
+    
+
+
+  
+}
+
+.header h1 {
+  color: #f7f5fb;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
